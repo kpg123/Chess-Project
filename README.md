@@ -9,7 +9,7 @@ modes: 1 - Evaluates Mate in 1 Solutions
        
 Input File Format: [rank1]/[rank2]/[rank3]/[rank4]/[rank5]/[rank6]/[rank7]/[rank8] [color to move] - -
 
-Input File Key:    rank = string of 0-8 numbers or letter representing pieces. (ex. b6r is a balck bishop, six empty spaces, and a black rook).
+Input File Key:    rank = string of 0-8 numbers or letter representing pieces. (ex. b6r is a balck bishop, six empty spaces, and a black rook).    
                    color to move = w or b - white or black respectively    
                    numbers = amount of blanks     
                    Uppercase = White Piece     
